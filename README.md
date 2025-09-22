@@ -1,49 +1,58 @@
-# ☁️ Welcome to my corner of Nothing™  
+# 👋 Hi, I’m just… here  
 
-![cloud gif](https://media.giphy.com/media/l2SpZkQ0XT1XtKus0/giphy.gif)  
+![shrug gif](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
 
-I don’t just exist on the internet —  
-I build apps that nobody needs, solve problems that don’t exist,  
-and proudly waste server space since *forever*.  
-
----
-
-## 🕹 Current Shenanigans
-- Working on “Netflix but it only buffers” 📺  
-- Thinking of a dating app where you can only swipe left 🤡  
+I’m not really a developer.  
+I’m just some average person who occasionally breaks stuff with code,  
+and then pretends it was on purpose.  
 
 ---
 
-## 📦 My Totally Real Skills
-- 🐛 Adding bugs that even I can’t fix  
-- 🔮 Guessing the Wi-Fi password correctly on the 4th try  
-- 🛌 Master of naps between “work sessions”  
-- 🍕 Can debug life problems with pizza (success rate: 100%)  
+## 🌭 Skills (kinda)
+- Eating 3-day-old pizza without regret  
+- Accidentally sleeping through alarms like it’s an Olympic sport  
+- Clicking “Remind me later” on updates until the heat death of the universe  
+- Copy-pasting code I don’t understand (and somehow it works)  
 
 ---
 
-## 📊 Stats Nobody Asked For
-- 0 production bugs (because nothing got deployed 😅)  
-- 100% uptime (server is off ✅)  
-- 9000+ lines of code wasted on memes  
-- Infinite tabs open, none read  
+## 🕹 Projects I Pretend to Care About
+- **Cloud Storage for Nothing™** – Upload files → get nothing back. You’re welcome.  
+- Considering a startup that delivers air in jars 💨  
+- Writing README files like this instead of being productive  
 
-![stats gif](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)  
+---
+
+## 📖 A Totally Random Story
+One time, I was walking home at 2 AM, carrying fries.  
+A stray cat stared at me like it wanted one.  
+So I gave it a fry. The cat didn’t eat it.  
+It just stared at me harder.  
+Anyway, that was the most intense job interview I’ve ever had.  
+
+---
+
+## 📊 Stats That Don’t Matter
+- 1 braincell (working part-time)  
+- 27 open tabs, all playing music at once  
+- 0% battery, always  
+- 100% vibes  
 
 ---
 
 ## ✨ Fun Facts
-- Once spent 3 hours fixing a bug… the fix was a semicolon ;  
-- Googled “how to boil water” and still failed 🍳  
-- My GitHub is basically a museum of chaos  
+- I believe Ctrl+C and Ctrl+V are my greatest inventions  
+- My fridge light is the brightest part of my life  
+- I once googled “how to boil water” and failed. Twice.  
 
 ---
 
 ## 📫 Contact
-Send a carrier pigeon 🐦.  
-I’ll reply in 3–5 business years (if I’m awake).  
+Send me an email… or a pigeon.  
+The pigeon will probably get a faster reply.  
 
 ---
 
-![party parrot](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw2eHpyZTJqNzQ4Y3JiazBma295bndpbnpxN3lncTIwaGxydnV6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PSPV1ucLX31u/giphy.gif)  
-*Thanks for scrolling through this nonsense — here is a cookie 🍪*  
+![chaos gif](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)  
+
+*Thanks for scrolling. You now officially know too much about me.*  
